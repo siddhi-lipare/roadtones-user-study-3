@@ -23,7 +23,7 @@
               "Conversational": "Strong"
             }
           },
-          "application": "Public Commentary Post"
+          "application": "Community Awareness Post"
         },
         {
           "caption_id": "video_1740563927124296059_caption2",
@@ -133,7 +133,7 @@
       },
       "caption_A": "Is following basic traffic rules too much to ask? \ud83e\udd28 #fail",
       "caption_B": "Is following basic traffic rules too much to ask? \ud83e\udd28 #fail",
-      "application": "Reaction Post"
+      "application": "Community Awareness Post"
     },
     {
       "comparison_id": "comp_003",
@@ -158,7 +158,7 @@
       },
       "caption_A": "Speed\u2019s shadow can leave nothing but silence and shattered dreams. Each journey is a reminder\u2014roads demand respect, or consequences will follow. Drive as if every mile matters.",
       "caption_B": "Speed\u2019s shadow can leave nothing but silence and shattered dreams. Each journey is a reminder\u2014roads demand respect, or consequences will follow. Drive as if every mile matters.",
-      "application": "Road Safety Education"
+      "application": "Public Safety Alert"
     },
     {
       "comparison_id": "comp_004",
@@ -176,7 +176,7 @@
           "caption_id": "video_1665532513672916992_caption1",
           "text": "Chicago streets show how safe cycling lanes and attentive road users make a difference. \ud83d\udeb4\u200d\u2642\ufe0f Pedestrians, cyclists, and vehicles all follow the rules. #RoadSafety",
           "caption_B": "Chicago streets show how safe cycling lanes and attentive road users make a difference. \ud83d\udeb4\u200d\u2642\ufe0f Pedestrians, cyclists, and vehicles all follow the rules. #RoadSafety",
-          "application": "Road Safety Education"
+          "application": "Public Safety Awareness"
         }
       ],
       "control_scores": {
@@ -213,7 +213,7 @@
       "change_type": "increased",
       "application": "Public Safety Awareness"
     },
-        {
+    {
       "change_id": "change_006",
       "video_id": "video_1798581666879086946",
       "video_path": "media/v_1798581666879086946_iMCA3kCEctYBK5Uc.mp4",
@@ -243,7 +243,7 @@
         "A high-speed car crash on a highway results in a severely damaged vehicle, multiple fatalities, and injuries.",
         "A large truck performs a hazardous overtaking maneuver, ignoring oncoming traffic."
       ],
-      "caption_A": "Trying to overtake on a hairpin bend? That’s just asking for trouble. It’s baffling how some people ignore basic safety, risking lives without a second thought. This level of carelessness is unreal.",
+      "caption_A": "Trying to overtake on a hairpin bend? That\u2019s just asking for trouble. It\u2019s baffling how some people ignore basic safety, risking lives without a second thought. This level of carelessness is unreal.",
       "caption_B": "Oh, brilliant move\u2014overtaking on a hairpin bend! Because who needs traffic rules or the slightest hint of common sense, right? What\u2019s next, racing on mountain cliffs for fun?",
       "field_to_change": {
         "tone": "Sarcastic"
