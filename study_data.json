@@ -110,30 +110,28 @@
     }
   ],
   "part3_comparisons": [
-    {
-      "comparison_id": "comp_002",
-      "video_id": "video_1695748178056974456",
-      "video_path": "media/v_1695748178056974456_FxGj0jW1c_4xuTXE.mp4",
-      "video_summary": "A vehicle-mounted camera, providing a driver's perspective, captured a road event in Japan during daytime. The key event depicted dangerous driving behavior, specifically illegal turns and lane changes at intersections. A beginner driver's car (possibly a Wagon R) and a yellow car (possibly a Vitz) were observed making illegal turns or lane changes at intersections, cutting across lanes inappropriately. Traffic rule violations included illegal lane changes, improper turns at intersections, and potentially running yellow lights, involving these vehicles, traffic lights, and other vehicles in traffic.",
-      "road_event_answer": "A beginner driver's car and a yellow car are seen making illegal turns/lane changes at intersections.",
+  {
+      "comparison_id": "comp_009",
+      "video_id": "video_1703606261588390352",
+      "video_path": "media/v_1703606261588390352_Z2L25V3LkQdLUVxM.mp4",
+      "video_summary": "A video, likely captured using a cell-phone or hand-held camera, depicts a dangerous and rash driving event in India. The key road event involves a motorcyclist performing wheelies at high speed on a busy road, amidst other moving vehicles and potential pedestrians. The motorcyclist's actions, suspected to be for thrill-seeking or showing off, constitute multiple traffic violations including reckless driving, performing stunts on a public road, and endangering other road users.",
+      "road_event_answer": "A motorcyclist performs high-speed wheelies on a busy road with other vehicles.",
       "distractor_answers": [
-        "A high-speed car crash on a highway results in a severely damaged vehicle, multiple fatalities, and injuries.",
-        "A car and a two-wheeler dangerously attempt to overtake on a hairpin bend.",
-        "A compilation shows multiple traffic violations in Hyderabad, including improper U-turns, speeding, and red light jumping."
+        "A beginner driver's car and a yellow car are seen making illegal turns/lane changes at intersections.",
+        "A semi-truck made an unsafe lane change, nearly colliding with another vehicle.",
+        "A motorcyclist rides recklessly, weaving between vehicles, riding no-handed, and hiding their license plate."
       ],
       "control_scores": {
         "tone": {
-          "Angry": "Very Strong",
-          "Critical": "Strong"
+          "Calm": "Very Strong"
         },
         "writing_style": {
-          "Conversational": "Strong",
-          "Rhetorical Question": "Strong"
+          "Factual": "Very Strong"
         }
       },
-      "caption_A": "Is following basic traffic rules too much to ask? \ud83e\udd28 #fail",
-      "caption_B": "Is following basic traffic rules too much to ask? \ud83e\udd28 #fail",
-      "application": "Community Awareness Post"
+      "caption_A": "Just saw a biker tearing through Mumbai traffic pulling wild wheelies\u2014pure adrenaline! Can\u2019t believe the guts on display. @MumbaiPolice, what a scene! #RoadSafety \ud83d\udea8",
+      "caption_B": "Just saw a biker tearing through Mumbai traffic pulling wild wheelies\u2014pure adrenaline! Can\u2019t believe the guts on display. @MumbaiPolice, what a scene! #RoadSafety \ud83d\udea8",
+      "application": "Law Enforcement Reporting"
     },
     {
       "comparison_id": "comp_003",
