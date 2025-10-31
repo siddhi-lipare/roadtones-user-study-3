@@ -1157,7 +1157,7 @@ elif st.session_state.page == 'user_study_main':
 
                     # --- MODIFIED: Updated fallback text to match JSON ---
                     tone_q_template = next((q['text'] for q in questions_to_ask_raw if q['id'] == 'tone_relevance'), "How {} does the caption sound?")
-                    overall_q_template = next((q['text'] for q in questions_to_ask_raw if q['id'] == 'overall_relevance'), "How well do the caption's tone and style match the video?")
+                    overall_q_template = next((q['text'] for q in questions_to_ask_raw if q['id'] == 'overall_relevance'), "How relevant are the tone and style for the given video?")
                     fact_q_template = next((q['text'] for q in questions_to_ask_raw if q['id'] == 'factual_consistency'), "How factually accurate is the caption (refer to video and summary)?")
                     useful_q_template = next((q['text'] for q in questions_to_ask_raw if q['id'] == 'usefulness'), "How useful would this caption be for {}?")
                     human_q_template = next((q['text'] for q in questions_to_ask_raw if q['id'] == 'human_likeness'), "How human-like does this caption sound?")

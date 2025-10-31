@@ -99,7 +99,7 @@
     },
     {
       "id": "overall_relevance",
-      "text": "How well do the caption's tone and style match the video?"
+      "text": "How relevant are the tone and style for the given video?"
     },
     {
       "id": "factual_consistency",
