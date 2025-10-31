@@ -1155,13 +1155,13 @@ elif st.session_state.page == 'user_study_main':
                     options_map['style_relevance'] = style_q_options_final # Update the options map
                     # --- End Handle Style Relevance Overrides ---
 
+                    # --- MODIFIED: Updated fallback text to match JSON ---
                     tone_q_template = next((q['text'] for q in questions_to_ask_raw if q['id'] == 'tone_relevance'), "How {} does the caption sound?")
-                    # --- ADDED ---
-                    overall_q_template = next((q['text'] for q in questions_to_ask_raw if q['id'] == 'overall_relevance'), "To what extent is the author's tone and style relevant for the given video content?")
-                    # --- END ADDED ---
-                    fact_q_template = next((q['text'] for q in questions_to_ask_raw if q['id'] == 'factual_consistency'), "How factually accurate is the caption?")
-                    useful_q_template = next((q['text'] for q in questions_to_ask_raw if q['id'] == 'usefulness'), "How useful is this caption for {}?")
+                    overall_q_template = next((q['text'] for q in questions_to_ask_raw if q['id'] == 'overall_relevance'), "How well do the caption's tone and style match the video?")
+                    fact_q_template = next((q['text'] for q in questions_to_ask_raw if q['id'] == 'factual_consistency'), "How factually accurate is the caption (refer to video and summary)?")
+                    useful_q_template = next((q['text'] for q in questions_to_ask_raw if q['id'] == 'usefulness'), "How useful would this caption be for {}?")
                     human_q_template = next((q['text'] for q in questions_to_ask_raw if q['id'] == 'human_likeness'), "How human-like does this caption sound?")
+                    # --- END MODIFIED ---
 
                     # --- MODIFIED: Added 'overall_relevance' ---
                     questions_to_ask = [
