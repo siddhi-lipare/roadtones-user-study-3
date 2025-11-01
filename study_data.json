@@ -33,8 +33,7 @@
               "Critical": "Strong"
             },
             "writing_style": {
-              "Judgmental": "Very Strong",
-              "Factual": "Very Strong"
+              "Judgmental": "Very Strong"
             }
           },
           "application": "Public Safety Awareness"
@@ -47,7 +46,6 @@
               "Amusing": "Strong"
             },
             "writing_style": {
-              "Exaggeration": "Very Strong",
               "Conversational": "Strong"
             }
           },
@@ -242,10 +240,10 @@
       "control_scores": {
         "tone": {
           "Appreciative": "Very Strong",
-          "Considerate": "Strong"
+          "Optimistic": "Strong"
         },
         "writing_style": {
-          "Advisory": "Strong"
+          "Factual": "Strong"
         }
       },
       "caption_A": "Chicago streets show how safe cycling lanes and attentive road users make a difference. \ud83d\udeb4\u200d\u2642\ufe0f Pedestrians, cyclists, and vehicles all follow the rules. #RoadSafety",
