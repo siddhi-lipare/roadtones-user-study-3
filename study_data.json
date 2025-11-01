@@ -23,11 +23,11 @@
               "Conversational": "Strong"
             }
           },
-          "application": "Community Awareness Post"
+          "application": "Urban Traffic Observation"
         },
         {
           "caption_id": "video_1740563927124296059_caption2",
-          "text": "I watched drivers run red lights, ignore zebra crossings, and make illegal U-turns while pedestrians crossed on a red. It\u2019s frustrating seeing such disregard for safety.",
+          "text": "I watched drivers run red lights, ignore zebra crossings, and make illegal U-turns while pedestrians crossed on a red. It’s frustrating seeing such disregard for safety.",
           "control_scores": {
             "tone": {
               "Critical": "Strong"
@@ -36,11 +36,11 @@
               "Judgmental": "Very Strong"
             }
           },
-          "application": "Public Safety Awareness"
+          "application": "Law Enforcement Reporting"
         },
         {
           "caption_id": "video_1740563927124296059_caption3",
-          "text": "I just watched Hyderabad chaos\u2014wow, what a show! \ud83d\udea6\ud83e\udd2f #Hyderabad",
+          "text": "I just watched Hyderabad chaos—wow, what a show! 🚦🤯 #Hyderabad",
           "control_scores": {
             "tone": {
               "Amusing": "Strong"
@@ -66,7 +66,7 @@
       "captions": [
         {
           "caption_id": "video_1737449031834751231_caption1",
-          "text": "My heart nearly stopped\u2014a huge truck just decided to overtake in front of me, ignoring oncoming cars like it\u2019s nothing! Seriously, never try this chaos. Stay patient. #RoadSafety",
+          "text": "My heart nearly stopped—a huge truck just decided to overtake in front of me, ignoring oncoming cars like it’s nothing! Seriously, never try this chaos. Stay patient. #RoadSafety",
           "control_scores": {
             "tone": {
               "Anxious": "Strong"
@@ -75,7 +75,7 @@
               "Advisory": "Strong"
             }
           },
-          "application": "Law Enforcement Reporting"
+          "application": "Public Safety Alert"
         },
         {
           "caption_id": "video_1737449031834751231_caption2",
@@ -92,7 +92,7 @@
         },
         {
           "caption_id": "video_1737449031834751231_caption3",
-          "text": "Reckless truck overtaking in Japan puts lives at risk, ignoring oncoming traffic and road rules. \ud83d\ude9b #TrafficViolation #Japan",
+          "text": "Reckless truck overtaking in Japan puts lives at risk, ignoring oncoming traffic and road rules. 🚛 #TrafficViolation #Japan",
           "control_scores": {
             "tone": {
               "Critical": "Strong"
