@@ -182,27 +182,28 @@
     }
   ],
   "part3_comparisons": [
-  {
-      "comparison_id": "comp_009",
-      "video_id": "video_1703606261588390352",
-      "video_path": "media/v_1703606261588390352_Z2L25V3LkQdLUVxM.mp4",
-      "video_summary": "A video, likely captured using a cell-phone or hand-held camera, depicts a dangerous and rash driving event in India. The key road event involves a motorcyclist performing wheelies at high speed on a busy road, amidst other moving vehicles and potential pedestrians. The motorcyclist's actions, suspected to be for thrill-seeking or showing off, constitute multiple traffic violations including reckless driving, performing stunts on a public road, and endangering other road users.",
-      "road_event_answer": "A motorcyclist performs high-speed wheelies on a busy road with other vehicles.",
+    {
+      "comparison_id": "comp_010",
+      "video_id": "video_1797729718998798734",
+      "video_path": "media/v_1797729718998798734_uJ4e_SauJ025C-gl.mp4",
+      "video_summary": "During the daytime on a busy city street, likely in a European or Asian country, a surveillance camera captured an accident involving a motor scooter rider and a pedestrian. The motor scooter rider, wearing a pink sweater and a white helmet, approached a white sedan and opened its door. This action caused a pedestrian, wearing a black jacket and carrying a bag, to stumble and fall. Other road entities present included a yellow taxi and a parked silver scooter. After the pedestrian fell, the scooter rider dismounted and stood near the fallen person, appearing unconcerned, before continuing to navigate through traffic. The incident involved traffic rule violations including reckless driving, failure to yield to a pedestrian, and potentially leaving the scene of an accident without providing assistance.",
+      "road_event_answer": "A scooter rider opens the door of a car, causing a passing pedestrian to fall.",
       "distractor_answers": [
-        "A beginner driver's car and a yellow car are seen making illegal turns/lane changes at intersections.",
-        "A semi-truck made an unsafe lane change, nearly colliding with another vehicle.",
-        "A motorcyclist rides recklessly, weaving between vehicles, riding no-handed, and hiding their license plate."
+        "A high-speed car crash on a highway results in a severely damaged vehicle, multiple fatalities, and injuries.",
+        "Cyclists, pedestrians, and vehicles are all seen respecting traffic signals and lane markings.",
+        "A compilation shows multiple traffic violations in Hyderabad, including improper U-turns, speeding, and red light jumping."
       ],
       "control_scores": {
         "tone": {
-          "Adventurous": "Very Strong"
+          "Casual": "Strong",
+          "Playful": "Strong"
         },
         "writing_style": {
-          "Exaggeration": "Very Strong"
+          "Conversational": "Very Strong"
         }
       },
-      "caption_A": "Just saw a biker tearing through Mumbai traffic pulling wild wheelies\u2014pure adrenaline! Can\u2019t believe the guts on display. @MumbaiPolice, what a scene! #RoadSafety \ud83d\udea8",
-      "caption_B": "Just saw a biker tearing through Mumbai traffic pulling wild wheelies\u2014pure adrenaline! Can\u2019t believe the guts on display. @MumbaiPolice, what a scene! #RoadSafety \ud83d\udea8"
+      "caption_A": "Captured at 3PM today. \ud83d\udea6 Watch out for surprises!",
+      "caption_B": "It\u2019s a midday ballet of chaos\u2014scooter, sedan, and a stumble. Watch out, Wednesday! \ud83e\udd2f"
     },
     {
       "comparison_id": "comp_003",
