@@ -110,17 +110,17 @@
   "part2_intensity_change": [
     {
       "change_id": "change_003",
-      "video_id": "video_1612557874131095564",
-      "video_path": "media/v_1612557874131095564_hEvyM8YOgxYD8iIs.mp4",
-      "video_summary": "A serious accident occurred on Highway 403 near Fairview Street in Burlington, Ontario, Canada, captured by a dashcam mounted on the transport truck. The key road event involved a car turning into the path of an oncoming transport truck, resulting in a collision. The car was severely damaged with its front end crumpled and hood raised, while the transport truck was positioned behind it. Emergency vehicles, including police cars with flashing lights, were present at the scene, with responders attending to the accident. The primary reason for the accident was the car driver's failure to yield right-of-way, potentially involving an improper lane change or unsafe turning.",
-      "road_event_answer": "A car turns into the path of a transport truck, causing a collision.",
+      "video_id": "video_1726805841914036622",
+      "video_path": "media/v_1726805841914036622_ivEjA-TE6FgKJqzx.mp4",
+      "video_summary": "A vehicle-mounted camera captured unsafe driving behavior involving electric scooter riders in an urban environment in Japan during daytime. Electric scooter riders were observed riding in the middle of the road, potentially running red lights, and exceeding speed limits for electric scooters. Additionally, riders were seen without helmets. Cars were driving normally on the road, sharing the environment with traffic lights, pedestrians, and buildings.",
+      "road_event_answer": "Electric scooter riders were seen violating traffic rules in Japan by speeding, riding in the middle of the road, and ignoring signals without wearing helmets.",
       "distractor_answers": [
-        "One driver abruptly cuts off another, causing an aggressive response from the second driver.",
-        "A motorcyclist performs high-speed wheelies on a busy road with other vehicles.",
+        "A car turns into the path of a transport truck, causing a collision.",
+        "A car stops beyond the designated stop line at a red light.",
         "A driver on a highway at night has a near-miss after reacting quickly to an unexpected obstacle."
       ],
-      "caption_A": "Did @OPP_News notice what just happened? Was this crash avoidable? #traffic #roadincident",
-      "caption_B": "@OPP_News did anyone else see that? Am I the only one worried? #Highway403",
+      "caption_A": "When electric scooters start treating city roads like their personal racetrack, are we witnessing the rise of the urban daredevils? \ud83d\udea6\ud83d\udef4 No helmets, no rules\u2014what could possibly go wrong?",
+      "caption_B": "Electric scooters zipping through city streets like it’s a daredevil contest—no helmets, red lights, or speed limits in sight. Is this some wild game or just nerve-wracking chaos? 🛴😬",
       "field_to_change": {
         "tone": "Anxious"
       },
@@ -184,10 +184,10 @@
   "part3_comparisons": [
     {
       "comparison_id": "comp_010",
-      "video_id": "video_1797729718998798734",
-      "video_path": "media/v_1797729718998798734_uJ4e_SauJ025C-gl.mp4",
-      "video_summary": "During the daytime on a busy city street, likely in a European or Asian country, a surveillance camera captured an accident involving a motor scooter rider and a pedestrian. The motor scooter rider, wearing a pink sweater and a white helmet, approached a white sedan and opened its door. This action caused a pedestrian, wearing a black jacket and carrying a bag, to stumble and fall. Other road entities present included a yellow taxi and a parked silver scooter. After the pedestrian fell, the scooter rider dismounted and stood near the fallen person, appearing unconcerned, before continuing to navigate through traffic. The incident involved traffic rule violations including reckless driving, failure to yield to a pedestrian, and potentially leaving the scene of an accident without providing assistance.",
-      "road_event_answer": "A scooter rider opens the door of a car, causing a passing pedestrian to fall.",
+      "video_id": "video_1696377364094263431",
+      "video_path": "media/v_1696377364094263431_UCOTtSLyxk68BIRX.mp4",
+      "video_summary": "A dashcam video captured a road rage incident during the daytime in Bengaluru, India, involving a car and a mini truck. The mini truck illegally overtook the car from the left side before merging into the lane. The car driver honked for 3-4 seconds, which angered the mini truck driver, who then confronted the car driver. The car driver pointed out his dashcam and questioned if the truck driver intended to assault him.",
+      "road_event_answer": "A road rage incident occurred in Bengaluru when a mini truck illegally overtook a car, leading to a heated confrontation between the drivers.",
       "distractor_answers": [
         "A high-speed car crash on a highway results in a severely damaged vehicle, multiple fatalities, and injuries.",
         "Cyclists, pedestrians, and vehicles are all seen respecting traffic signals and lane markings.",
@@ -195,37 +195,37 @@
       ],
       "control_scores": {
         "tone": {
-          "Casual": "Strong",
-          "Playful": "Strong"
+          "Observant": "Strong",
+          "Critical": "Strong"
         },
         "writing_style": {
           "Conversational": "Very Strong"
         }
       },
-      "caption_A": "Captured at 3PM today. \ud83d\udea6 Watch out for surprises!",
-      "caption_B": "Afternoon chaos on the road, June 12. What next? \ud83d\udea6"
+      "caption_A": "A dashcam caught a mini truck overtaking a car from the left and merging, sparking road rage when the car honked. The truck driver confronted the car driver, who highlighted the dashcam. Incidents like this demand scrutiny. 🚗🚚 #Bengaluru #RoadRage",
+      "caption_B": "A dashcam caught a car and truck driver arguing in heavy traffic. Both appeared aggressive, with the truck driver blocking the road. Such incidents highlight the need for better conflict resolution on busy streets. \ud83d\ude97\ud83d\ude9a #Hyderabad #RoadRage #Traffic"
     },
     {
       "comparison_id": "comp_003",
-      "video_id": "video_1620271366900703234",
-      "video_path": "media/v_1620271366900703234_12P3R9m3EqbJlb8Y.mp4",
-      "video_summary": "A severe car accident occurred during the pre-dawn hours near Kasa bridge on the Mumbai-Ahmedabad Highway in India. A white high-end car, traveling at high speed, smashed into a road divider before colliding head-on with a luxury bus. Speeding was identified as the primary cause and traffic violation. The accident resulted in multiple fatalities and injuries. The high-end car sustained severe damage, with its front end completely destroyed, hood crumpled, windshield shattered, and passenger-side door hanging open. The video, captured by a hand-held camera, shows static close-up shots of the damaged vehicle.",
-      "road_event_answer": "A high-speed car crash on a highway results in a severely damaged vehicle, multiple fatalities, and injuries.",
+      "video_id": "video_1788433740043272490",
+      "video_path": "media/v_1788433740043272490_Sfyt0MJb5efc8XNY.mp4",
+      "video_summary": "A vehicle-mounted camera recorded hazardous driving conditions caused by extreme weather in Nagpur city, India, during the morning. The vehicle from which the video was captured had halted due to the severe weather, which also affected other vehicles present on the road.",
+      "road_event_answer": "Severe weather in Nagpur caused hazardous driving conditions, forcing vehicles to halt on the road.",
       "distractor_answers": [
         "Cyclists, pedestrians, and vehicles are all seen respecting traffic signals and lane markings.",
         "A large truck performs a hazardous overtaking maneuver, ignoring oncoming traffic.",
-        "A beginner driver's car and a yellow car are seen making illegal turns/lane changes at intersections."
+        "A motorcyclist performs high-speed wheelies on a busy road with other vehicles."
       ],
       "control_scores": {
         "tone": {
-          "Serious": "Very Strong"
+          "Caring": "Very Strong"
         },
         "writing_style": {
-          "Metaphorical": "Strong"
+          "Advisory": "Strong"
         }
       },
-      "caption_A": "Speed\u2019s shadow can leave nothing but silence and shattered dreams. Each journey is a reminder\u2014roads demand respect, or consequences will follow. Drive as if every mile matters.",
-      "caption_B": "Every journey is a test of will, and the road is never forgiving. Let this be a reminder: patience and respect are the armor against chaos."
+      "caption_A": "Morning weather in Nagpur is unsafe today. @NagpurPolice requests everyone to please stay home and avoid all travel for safety.",
+      "caption_B": "@MumbaiPolice On June 15, heavy fog and rain caused poor visibility in Mumbai. Please drive cautiously and use your headlights."
     },
     {
       "comparison_id": "comp_004",
